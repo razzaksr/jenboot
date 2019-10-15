@@ -1,4 +1,4 @@
-package mera.springmvc7.apply;
+package mera.springmvc6.apply;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

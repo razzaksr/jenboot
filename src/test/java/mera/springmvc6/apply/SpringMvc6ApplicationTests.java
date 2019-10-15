@@ -1,4 +1,4 @@
-package mera.springmvc7.apply;
+package mera.springmvc6.apply;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringMvc7ApplicationTests {
+public class SpringMvc6ApplicationTests {
 
 	@Test
 	public void contextLoads() {
